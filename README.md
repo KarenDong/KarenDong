@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **KarenDong/KarenDong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,6 +24,10 @@ Here are some ideas to get you started:
 ! Interests:
 + Machine Learning, statistical analysis, market research, front-end design, fin-tech. AND⚽!!!
 ```
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarenDong&hide=contribs,prs)
+
 #### Skills
 ```python
 working_language = ('SQL','Python')
