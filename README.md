@@ -18,7 +18,6 @@ Here are some ideas to get you started:
     📈 4+ years working experience with data analysis and data mining. 
     💻 computer:Hands on experience with web design and development.
     🙆‍♀️ Master’s in science, Information Technology (UT Dallas)
-    📫 Reach me at my [linkedin](https://www.linkedin.com/in/huiyaodong/)
 
 ```diff
 ! Interests:
