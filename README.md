@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## :smile: Introduction
+## 👋 Introduction
 
     📈 4+ years working experience with data analysis and data mining. 
     💻 computer:Hands on experience with web design and development.
