@@ -25,9 +25,6 @@ Here are some ideas to get you started:
 + Machine Learning, statistical analysis, market research, front-end design, fin-tech. AND⚽!!!
 ```
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarenDong&hide=commits,prs,issues)
-
 #### Skills
 ```python
 working_language = ('SQL','Python')
