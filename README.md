@@ -41,11 +41,12 @@ string[] framework = {"Flask", "Django", "ASP.Net"};
 
 #### Stuffs I worked on:
 
-| Project | Category  | Comment |
+
+| <font size=1>Project</font> | <font size=1>Category</font> | <font size=13>Comment</font> |
 | :------------ |:---------------:| -----:|
 |[Bank Marketing Strategy Research](https://github.com/KarenDong/bank_marketing)    | Data Science | Python |
 |[Customer Analysis for Finance Product](https://github.com/KarenDong/Customer_Analysis_with_Python) | Data Science        | Python |
-|[Data Analysis Practice] (https://github.com/KarenDong/Project_DataAnalysis)    | Data Science        |   Python |
+|[Data Analysis Practice](https://github.com/KarenDong/Project_DataAnalysis)    | Data Science        |   Python |
 |Team Profile Website | Web development        | Bootstrap |
 |["Tree hollow"-Mini Anonymous Forum](https://github.com/KarenDong/treehollow)     | Web development | Django |
 |[Personal Website](https://github.com/KarenDong/portfolio)     | Web development        |   Bootstrap |
