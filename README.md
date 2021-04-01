@@ -27,16 +27,15 @@ Here are some ideas to get you started:
 #### Skills
 ```c#
 var working_language = new ArrayList()
-					{
-						"SQL", "Python"
-					};
+				{
+					"SQL", "Python"
+				};
 var daily_work_pkg = new ArrayList()
-					{
-						"numpy", "Pandas", "scikit-learn", "SciPy", "Matplotlib", "seaborn"
-					};
+				{
+					"numpy", "Pandas", "scikit-learn", "SciPy", "Matplotlib", "seaborn"
+				};
+					
 string[] webdev_experience = {"HTML", "CSS", "JavaScript", "jQuery", "C#"};
-
-
 string[] framework = {"Flask", "Django", "ASP.Net"};
 ```
 
