@@ -25,16 +25,18 @@ Here are some ideas to get you started:
 ```
 
 #### Skills
-```python
-working_language = ('SQL','Python')
-daily_used_pkg = ['numpy','Pandas', 'scikit-learn', 'SciPy', 'Matplotlib', 'seaborn']
-```
-
 ```c#
-var webdev_experience = new ArrayList()
+var working_language = new ArrayList()
 					{
-						"HTML", "CSS", "JavaScript", "jQuery", "C#" 
+						"SQL", "Python"
 					};
+var daily_work_pkg = new ArrayList()
+					{
+						"numpy", "Pandas", "scikit-learn", "SciPy", "Matplotlib", "seaborn"
+					};
+string[] webdev_experience = {"HTML", "CSS", "JavaScript", "jQuery", "C#"};
+
+
 string[] framework = {"Flask", "Django", "ASP.Net"};
 ```
 
@@ -45,7 +47,7 @@ string[] framework = {"Flask", "Django", "ASP.Net"};
 | :------------ |:---------------:| -----:|
 |[Bank Marketing Strategy Research](https://github.com/KarenDong/bank_marketing)    | Data Science | Python |
 |[Customer Analysis for Finance Product](https://github.com/KarenDong/Customer_Analysis_with_Python) | Data Science        | Python |
-|[Data Analysis Practice](https://github.com/KarenDong/Project_DataAnalysis)    | Data Science        |   Python |
+|[Data Analysis Practice](https://github.com/KarenDong/Project_DataAnalysis)    | Data Analysis & Mining        |   Python |
 |Team Profile Website | Web development        | Bootstrap |
 |["Tree hollow"-Mini Anonymous Forum](https://github.com/KarenDong/treehollow)     | Web development | Django |
 |[Personal Website](https://github.com/KarenDong/portfolio)     | Web development        |   Bootstrap |
