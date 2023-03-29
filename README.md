@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 
 ## 👋 Introduction
 
-    📈 Working experience in data mining and AI. 
-    💻 computer:Hands on experience with web design and development.
-    🙆‍♀️ Master’s in science, Information Technology (UT Dallas)
-
+    📈 Working experience in data science and Flask-based & ReactJS-based data application. 
+    💻 Hands on experience with data modeling, web design and development.
+    🙆‍♀️ Research interests: Multi-task learning, Meta learning, CV, medical image analysis
+    
 ```diff
-! Interests:
-+ Machine Learning, statistical analysis, market research, front-end design, fin-tech. AND⚽!!!
+! Where my passion is:
++ Machine Learning, market research, front-end design, fin-tech. Boxing and football!!!
 ```
 
 #### Skills
