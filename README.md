@@ -48,5 +48,4 @@ string[] framework = {"Flask", "Django", "ASP.Net"};
 |[Customer Analysis for Finance Product](https://github.com/KarenDong/Customer_Analysis_with_Python) | Data Science        | Python |
 |Team Profile Website | Web development        | Bootstrap |
 |["Tree hollow"-Mini Anonymous Forum](https://github.com/KarenDong/treehollow)     | Web development | Django |
-|[Personal Website](https://github.com/KarenDong/portfolio)     | Web development        |   Bootstrap |
 
